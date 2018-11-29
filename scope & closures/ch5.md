@@ -53,7 +53,7 @@ De uma perspectiva puramente acadêmica, o que é dito do trecho acima é que a 
 
 Mas, definida dessa forma, closure não é diretamente *observável*, nós nem vimos closure *exercida* nesse trecho. Nós vemos claramente o escopo léxico, mas closure permanece uma espécie de sombra misteriosa se deslocando por trás do código.
 
-Vamos considerar, então, um código que trás closure totalmente para a luz:
+Vamos considerar, então, um código que traz closure totalmente para a luz:
 
 ```js
 function foo() {
